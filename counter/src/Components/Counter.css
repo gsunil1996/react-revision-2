@@ -1,0 +1,22 @@
+/* .main{
+    border: 2px solid black;
+    width: 350px;
+    margin-left: 50px;
+    margin-top: 50px;
+} */
+
+.flexing{
+    display: flex;
+    margin-left: 20px;
+}
+
+.price{
+    margin-top: -20px;
+}
+.main > div:nth-child(1){
+    margin-left: 20px;
+}
+.buttons{
+    margin-left: 20px;
+    margin-top: 8px;
+}

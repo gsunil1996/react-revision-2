@@ -1,0 +1,46 @@
+p{
+  font-size: 1rem;
+  font-weight: bolder;
+}
+
+.App{
+    width: 55%;
+    /* border: 2px solid orangered; */
+    display: grid;
+    grid-template-columns: repeat(2, 50%);
+    grid-gap: 10%;
+    margin: auto;
+    padding-bottom: 80px;
+    margin-top: 50px;
+}
+
+.c1{
+  background-color:rgb(252,230,204);
+  width: 350px;
+  border: 2px solid rgb(230,190,93);
+  padding-bottom: 20px;
+}
+
+.c2{
+  background-color:rgb(246,206,204);
+  /* height: 200px; */
+  width: 350px;
+  border: 2px solid rgb(194,104,101);
+   padding-bottom: 20px;
+}
+
+.c3{
+  background-color: rgb(219,232,252);
+  /* height: 200px; */
+  width: 350px;
+  border: 2px solid rgb(161,183,214);
+   padding-bottom: 20px;
+}
+
+.c4{
+  background-color: rgb(213,232,212);
+  /* height: 200px; */
+  width: 350px;
+  border: 2px solid rgb(144,188,120);
+   padding-bottom: 20px;
+}
